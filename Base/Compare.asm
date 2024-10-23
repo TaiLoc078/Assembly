@@ -3,7 +3,6 @@
 .data
     notice db 13, 10, "So nao lon hon: $"
 .code
-
 mov ax, @data
 mov ds, ax
 
