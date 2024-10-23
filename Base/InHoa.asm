@@ -2,7 +2,6 @@
 .stack 100h
 .data
 .code
-
 ;di chuyen bit 0001 vao thanh ghi ah(IR), '0001' co chuc nang Read_input tu ban phim  
 ;'int 21h': doc du lieu thanh ghi ah roi thuc thi(CU)
 mov ah, 1
